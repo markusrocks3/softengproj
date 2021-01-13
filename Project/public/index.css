@@ -1,0 +1,70 @@
+html,body{
+background-image:url(https://assets.strikingly.com/static/backgrounds/blur/7.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family: 'Numans', sans-serif;
+}
+
+.container{
+height: 100%;
+align-content: center;
+}
+
+.card{
+height: 370px;
+margin-top: auto;
+margin-bottom: auto;
+width: 400px;
+background-color: rgba(0,0,0,0.5) !important;
+}
+.card-header{
+color: white;
+}
+
+input:focus{
+outline: 0 0 0 0  !important;
+box-shadow: 0 0 0 0 !important;
+
+}
+
+.signUp{
+color: black;
+background-color:white;
+width: 100px;
+}
+.signUp:hover{
+color: black;
+background-color: white;
+}
+.signIn{
+color: black;
+background-color: white;
+width: 100px;
+}
+.signIn:hover{
+color: black;
+background-color: white;
+}
+.SignOut{
+color: black;
+background-color: white;
+width: 100px;
+}
+.remember{
+color: white;
+}
+
+.remember input
+{
+width: 20px;
+height: 20px;
+margin-left: 15px;
+margin-right: 5px;
+}
+.input-group-prepend span{
+width: 50px;
+background-color: white;
+color: black;
+border:0 !important;
+}   
